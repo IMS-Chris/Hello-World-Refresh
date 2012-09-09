@@ -22,6 +22,7 @@ public class Main {
         myName = getName();
 
         System.out.println("Hi " + myName);
+        System.out.println("Thank you for using our Program ");
     }
 
     public static String getName(){
